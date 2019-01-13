@@ -1,6 +1,6 @@
 # Build your say_hello method here
-def say_hello(phrase="Hello",1)
-  x.times do
+def say_hello(phrase="Hello")
+  do
     puts phrase
   end
 end
