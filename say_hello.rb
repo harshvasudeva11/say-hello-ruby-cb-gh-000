@@ -3,5 +3,4 @@ def say_hello(phrase="Hello",x)
   x.times do
     puts phrase
   end
-say_hello("HaVa")
 end
